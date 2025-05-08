@@ -1,0 +1,14 @@
+Lays,1,50,100
+Cold_Drink,2,80,112
+Choclate,3,30,60
+Ice_Cream,4,120,75
+Milk,5,240,30
+Pastry,6,60,20
+Biscuits,7,30,200
+Chips,8,70,150
+Tea,9,100,75
+Bun,10,45,50
+eggs,11,30,10
+soap,12,50,70
+Maggi,13,120,35
+DairyMilk,15,100,19
